@@ -9,8 +9,9 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 </div>
+<br>
+<p align="center"><em>Sou um estudante apaixonado por tecnologia.
+</em></p>
 
-Sou um estudante apaixonado por tecnologia.
-
-### Entre em contato em:
-kassioms1@gmail.com
+<h1 align="center">Entre em contato através do email:</h1>
+<div align="center"><a href="mailto:kassioms1@gmail.com">kassioms1@gmail.com</a></div>
